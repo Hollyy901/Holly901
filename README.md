@@ -4,7 +4,10 @@
 ### 👨‍💻 Web Developer | Frontend & Full-Stack Enthusiast
 
 #### 📌 About Me
-Passionate web developer focused on building interactive, user-friendly, and responsive web applications. I love solving algorithm challenges, refining UI components, and crafting performant web apps. I'm a student doing honours in History department but my love for technologies is unmatched.
+Passionate web developer focused on building interactive, user-friendly, and responsive web applications. I love solving algorithm challenges, refining UI components, and crafting performant web apps.
+
+🌐 **Languages**: Fluent in English & Bangla  
+📍 **Location**: Bangladesh
 
 #### 🚀 Recent Work & Activities
 * 🔭 **Recently built**: **FitLog** — A full-featured workout tracking web app with custom exercise libraries and API fallbacks.
@@ -23,22 +26,12 @@ Passionate web developer focused on building interactive, user-friendly, and res
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-#### 📊 GitHub Stats & Streak
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Holly901&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holly901&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Holly901&theme=radial" alt="GitHub Streak" />
-</p>
-
 #### 🔗 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
