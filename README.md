@@ -7,7 +7,7 @@
 Passionate web developer focused on building interactive, user-friendly, and responsive web applications. I love solving algorithm challenges, refining UI components, and crafting performant web apps.
 
 🌐 **Languages**: Fluent in English & Bangla  
-📍 **Location**: Bangladesh
+📍 **Location**: Barishal, Bangladesh
 
 #### 🚀 Recent Work & Activities
 * 🔭 **Recently built**: **FitLog** — A full-featured workout tracking web app with custom exercise libraries and API fallbacks.
